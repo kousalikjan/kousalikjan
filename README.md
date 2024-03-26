@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Jan Kousalík!
-- 🔴 I'm not that active on GitHub due to school using GitLab for all projects
+- 🔴 I'm not that active on GitHub due to school using private GitLab for all projects
 
 ## 🎓 About Me
 - 🌐 Student of web engineering at Faculty of Information Technology CTU in Prague
