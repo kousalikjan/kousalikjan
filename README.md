@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Jan Kousalík!
-- 🔴 I'm not that active on GitHub due to school using private GitLab for all projects
+- 🔴 I'm not that active on GitHub due to school and work using private GitLab for all projects
 
 ## 🎓 About Me
 - 🌐 Student of web engineering at Faculty of Information Technology CTU in Prague
 - 🎓 Completed Bachelor's degree with honors
 - 👨‍💻 Primary focus on web development
-- 💼 Teaching C# programming at Gymnázium Špitalská
+- 💼 Taught C# programming at Gymnázium Špitalská
 - 🔧 Worked on internal projects for Rieter s.r.o.
-- 🛠️ Proficient in Symfony (backend) and Hotwire (frontend)
+- 🛠️ Working for SWORP a.s. in Symfony and Hotwire
 - 💡 Interested in DevOps/Cloud
 
   
