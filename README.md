@@ -2,12 +2,11 @@
 - 🔴 I'm not that active on GitHub due to school and work using private GitLab for all projects
 
 ## 🎓 About Me
-- 🌐 Student of web engineering at Faculty of Information Technology CTU in Prague
-- 🎓 Completed Bachelor's degree with honors
+- 🌐 Completed Master's degree with honors in web engineering at Faculty of Information Technology CTU in Prague
 - 👨‍💻 Primary focus on web development
 - 💼 Taught C# programming at Gymnázium Špitalská
 - 🔧 Worked on internal projects for Rieter s.r.o.
-- 🛠️ Working for SWORP a.s. in Symfony and Hotwire
+- 🛠️ Worked for SWORP a.s. in Symfony and Hotwire
 - 💡 Interested in DevOps/Cloud
 
   
